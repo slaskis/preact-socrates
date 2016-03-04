@@ -1,7 +1,7 @@
 
 # preact-socrates
 
-  [preact](http://github.com/developit/preact) plugin for [socrates](http://github.com/matthewmueller/socrates).
+  [Preact](http://github.com/developit/preact) plugin for [socrates](http://github.com/matthewmueller/socrates).
 
 ## Install
 
@@ -47,7 +47,7 @@ store('boot', {
  * Render our virtual dom tree to the <body>
  */
 
-render(App, store, document.body)
+render(Home, store, document.body)
 ```
 
 ## License
